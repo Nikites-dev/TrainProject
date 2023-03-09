@@ -1,0 +1,7 @@
+C:\Users\202014\RiderProjects\TrainProject\TrainProject\bin\Debug\TrainProject.exe
+C:\Users\202014\RiderProjects\TrainProject\TrainProject\bin\Debug\TrainProject.pdb
+C:\Users\202014\RiderProjects\TrainProject\TrainProject\obj\Debug\TrainProject.csproj.AssemblyReference.cache
+C:\Users\202014\RiderProjects\TrainProject\TrainProject\obj\Debug\TrainProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\202014\RiderProjects\TrainProject\TrainProject\obj\Debug\TrainProject.csproj.CoreCompileInputs.cache
+C:\Users\202014\RiderProjects\TrainProject\TrainProject\obj\Debug\TrainProject.exe
+C:\Users\202014\RiderProjects\TrainProject\TrainProject\obj\Debug\TrainProject.pdb
